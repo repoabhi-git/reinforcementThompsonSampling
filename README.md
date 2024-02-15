@@ -1,0 +1,2 @@
+# reinforcementThompsonSampling
+Reinforcement Learning Thompson Sampling
